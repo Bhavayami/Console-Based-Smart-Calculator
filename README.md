@@ -31,7 +31,7 @@ smart-calculator/
 
 📦 Installation
 Clone the repository:
-git clone https://github.com/your-username/smart-calculator.git
+git clone https://github.com/Bhavayami/smart-calculator.git
 Navigate to the project folder:
 cd smart-calculator
 Install NumPy:
